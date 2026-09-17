@@ -1,0 +1,9 @@
+CITY CARE LABORATORY
+Report Date: 08/09/2026
+Patient: SAMPLE (synthetic test data - not a real patient)
+
+Hemoglobin 10.2 g/dL (13-17)
+WBC 8400 uL
+Glucose 126 mg/dL
+
+Reference ranges as printed. For verification only.

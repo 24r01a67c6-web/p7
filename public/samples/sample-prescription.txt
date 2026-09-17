@@ -1,0 +1,8 @@
+CITY CLINIC (synthetic test data - not a real patient)
+Date: 10/09/2026
+Diagnosis: Acute bronchitis
+
+Rx
+Paracetamol 500 mg 2 times daily for 3 days
+
+Follow-up after 3 days if needed.

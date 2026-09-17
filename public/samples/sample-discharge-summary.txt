@@ -1,0 +1,12 @@
+CITY HOSPITAL (synthetic test data - not a real patient)
+DISCHARGE SUMMARY
+Admission: 01/09/2026
+Discharge: 05/09/2026
+Diagnosis: Dengue fever
+Procedure: Platelet monitoring
+Past medical history: Hypertension
+
+Medicines on discharge:
+Paracetamol 500 mg twice daily for 5 days
+
+Follow-up after 1 week.
